@@ -29,6 +29,9 @@ O formulário solicita pelo menos **3 informações** obrigatórias do usuário:
 - 🖼️ Link da Imagem (opcional)
 
 ---
+### 🎞️ Exemplo Card:
+![Card de Exemplo 2](img/exemplo_Catalogo.png)
+
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -44,10 +47,6 @@ Ao preencher o formulário, o usuário verá um card semelhante a este:
 
 ### 🎞️ Formulário:
 ![Formulário](img/formulario.png)
-
-### 🎞️ Exemplo Card:
-![Card de Exemplo 2](img/exemplo_Catalogo.png)
-
 
 ---
 
