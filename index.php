@@ -29,11 +29,14 @@
                 <label for="imagem_produto" class="block mb-2 text-sm font-medium text-gray-700">Link da Imagem do Produto</label>
                 <input type="text" id="imagem_produto" name="imagem_produto" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-3" placeholder="Digite o link da imagem do produto" required />
             </div>
-            <div class="mb-5">
-                <label for="descricao_produto" class="block mb-2 text-sm font-medium text-gray-700">Descrição do Produto</label>
-                <textarea id="descricao_produto" name="descricao_produto" 
-                    class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-3 resize-none h-24" 
-                    placeholder="Digite a descrição do produto" required></textarea>
+            <div class="mb-5 flex justify-center items-center">
+                <div class="w-full max-w-md text-center">
+                    <label for="descricao_produto" class="block mb-2 text-sm font-medium text-gray-700">Descrição do Produto</label>
+                    <textarea id="descricao_produto" name="descricao_produto"
+                        class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block mx-auto p-3 font-mono"
+                        cols="17" rows="3"
+                        placeholder="Digite a descrição do produto" required></textarea>
+                </div>
             </div>
             <h1 class="text-lg font-medium text-gray-700 mb-4">Selecione a avaliação do produto</h1>
             <!-- Input oculto com a nota -->
