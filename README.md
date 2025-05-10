@@ -50,6 +50,7 @@ Ao preencher o formulário, o usuário verá um card semelhante a este:
 
 ### 🎞️ Exemplo Catalogo:
 ![Card de Exemplo 3](img/exemplo_Catalogo.png)
+
 ---
 
 ## ✅ Objetivos da Atividade
