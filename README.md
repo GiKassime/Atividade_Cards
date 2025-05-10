@@ -46,10 +46,8 @@ Ao preencher o formulário, o usuário verá um card semelhante a este:
 ![Formulário](img/formulario.png)
 
 ### 🎞️ Exemplo Card:
-![Card de Exemplo 2](img/exemplo_Card.png)
+![Card de Exemplo 2](img/exemplo_Catalogo.png)
 
-### 🎞️ Exemplo Catalogo:
-![Card de Exemplo 3](img/exemplo_Catalogo.png)
 
 ---
 
